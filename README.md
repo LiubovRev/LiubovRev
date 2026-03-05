@@ -11,9 +11,9 @@ My work combines computer vision, clinical AI, and production-style ML pipelines
 • Decision-support systems    
 
 ## Selected projects  
-• Clinical video ML pipeline (CHUV)    
-• Production-grade time series forecasting    
-• ML pipeline with experiment tracking  
+• [Clinical video ML pipeline](https://github.com/LiubovRev/Video-Annotation-System)  
+• [Production-grade time series forecasting](https://github.com/LiubovRev/Production-Grade-Time-Series-Forecasting)  
+• [ML pipeline with experiment tracking](https://github.com/LiubovRev/Bank-Marketing-ML-Pipeline)
 
 ## Tech stack   
 Python • PyTorch • scikit-learn • XGBoost • OpenCV • MLflow • FastAPI
