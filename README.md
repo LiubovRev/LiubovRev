@@ -1,4 +1,4 @@
-# Hi, I'm Liubov 👋
+## Hi, I'm Liubov 👋
 
 Applied Machine Learning Engineer with a PhD in Physics, focusing on building ML systems for real-world data.
 
@@ -15,5 +15,5 @@ My work combines computer vision, clinical AI, and production-style ML pipelines
 • Production-grade time series forecasting    
 • ML pipeline with experiment tracking  
 
-##Tech stack   
+## Tech stack   
 Python • PyTorch • scikit-learn • XGBoost • OpenCV • MLflow • FastAPI
