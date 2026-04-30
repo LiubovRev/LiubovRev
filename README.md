@@ -14,4 +14,4 @@ ML pipelines • Clinical AI • Computer Vision •  Decision-support systems
 ## Tech stack   
 Python • PyTorch • scikit-learn • XGBoost • OpenCV • MLflow 
 
-[Download my CV]([https://drive.google.com/file/d/1jturG1bhyk58dDHThc_Ce_OtFC-DctxO/view?usp=sharing])
+[Download my CV](https://drive.google.com/file/d/1jturG1bhyk58dDHThc_Ce_OtFC-DctxO/view?usp=sharing]
