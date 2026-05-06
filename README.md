@@ -6,7 +6,11 @@ My work combines computer vision, clinical AI, and production-style ML pipelines
 [Download my CV](https://drive.google.com/file/d/1jturG1bhyk58dDHThc_Ce_OtFC-DctxO/view?usp=sharing)
 
 ## Focus  
-ML pipelines • Clinical AI • Computer Vision •  Decision-support systems    
+
+- Clinical AI & Behavioral Analysis    
+- Computer Vision (pose estimation, multi-person interaction)    
+- End-to-end ML pipelines (data → features → modeling → evaluation)    
+- Decision-support systems       
 
 ## Selected projects  
 • [Clinical video ML pipeline](https://github.com/LiubovRev/Video-Annotation-System)  
