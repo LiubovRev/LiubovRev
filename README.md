@@ -3,7 +3,7 @@
 Applied Machine Learning Engineer with a PhD in Physics, focusing on building ML systems for real-world data.
 My work combines computer vision, clinical AI, and production-style ML pipelines.
 
-[Download my CV](https://drive.google.com/file/d/1jturG1bhyk58dDHThc_Ce_OtFC-DctxO/view?usp=sharing)
+
 
 ## Focus  
 
@@ -20,4 +20,4 @@ My work combines computer vision, clinical AI, and production-style ML pipelines
 ## Tech stack   
 Python • PyTorch • scikit-learn • XGBoost • OpenCV • MLflow 
 
-[Download my CV](https://drive.google.com/file/d/1jturG1bhyk58dDHThc_Ce_OtFC-DctxO/view?usp=sharing]
+[Download my CV](https://drive.google.com/file/d/1jturG1bhyk58dDHThc_Ce_OtFC-DctxO/view?usp=sharing)
